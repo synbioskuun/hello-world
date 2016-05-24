@@ -12,6 +12,13 @@ https://speakerdeck.com/pycon2014/an-introduction-to-sqlalchemy-core-by-jason-my
 
 https://www.openhub.net/p/pyvida
 
+http://seleniummaster.com/sitecontent/index.php/selenium-web-driver-menu/selenium-test-automation-with-python-menu/336-verify-updating-record-in-database-table-using-pymssql-module
+
+http://docs.sqlalchemy.org/en/latest/core/tutorial.html
+
+https://julien.danjou.info/blog/2014/db-integration-testing-strategies-python
+
+
 wot m8:
 https://speakerdeck.com/pycon2014/my-big-gay-adventure-making-releasing-and-selling-an-indie-game-made-in-python-dot-by-luke-miller
 
